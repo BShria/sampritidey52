@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
     setTimeout(() => {
         preloader.classList.add('preload-finish');
     }, 2000);
-})
+});
 
 
 
