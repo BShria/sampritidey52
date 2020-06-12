@@ -8,7 +8,7 @@
 
 /*html{
     overflow: auto;
-}*/
+}
 
 .preloader{
     background-color: rgb(228, 182, 149);
@@ -45,7 +45,7 @@
     to{
         opacity: 1;
     }
-}
+}*/
 
 a {
   text-decoration: none;
