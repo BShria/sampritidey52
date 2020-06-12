@@ -1,12 +1,12 @@
 
     
 //preloader animation
-/*window.addEventListener('load', () => {
+window.addEventListener('load', () => {
     const preloader = document.querySelector('.preloader');
     setTimeout(() => {
         preloader.classList.add('preload-finish');
     }, 2000);
-})*/
+})
 
 
 
